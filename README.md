@@ -44,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Alexandre Cardoso - [cardoso.estudo1@gmail.com](mailto:your.email@example.com)
 
-LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/alexancard)
+LinkedIn: [Alex Cardoso](https://www.linkedin.com/in/alexancard)
 
 ---
 
